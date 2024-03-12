@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#signImage {
+  width: 200px;
+  height: 200px;
+}
