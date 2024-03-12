@@ -1,2 +1,2 @@
 # Speech-To-ISL----first-Draft
-Speech To ISL -- first draft
+Speech to Indian Sign Language minimalist first draft --- it just works not really good but works
